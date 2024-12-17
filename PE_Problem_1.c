@@ -15,8 +15,8 @@
 
 /** ***********************************************8
      This function calculates the sum of numbers 
-	 divisible by n up to target. It uses the 
-	 arithmetic series formula.
+     divisible by n up to target. It uses the 
+     arithmetic series formula.
 ************************************************ **/
 uint32_t sum_divisible_by(uint32_t n, uint32_t target) {
     uint32_t p = target / n; 
